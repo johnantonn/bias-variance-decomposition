@@ -1,6 +1,12 @@
 # bias-variance-decomposition
 Bias-variance decomposition for classification and regression algorithms.
 
+> **Status:** Personal / university coursework archive — **not actively maintained**. Dependencies and tooling may be outdated.
+
+## How to run
+
+Use **Python 3** with **Jupyter**. Install typical scientific stack plus mlxtend, e.g. `pip install jupyter scikit-learn mlxtend`, then open and run the notebooks in this repository.
+
 ![image](https://user-images.githubusercontent.com/8168416/157861049-c2fd2438-5768-41bf-a9db-0d67ae3aa2d0.png)
 
 ## Description
